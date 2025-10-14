@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/vidnoz-ai-la",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a vidnoz-ai-la",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/vidnoz-ai-la.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/vidnoz-ai/"
+    },
+    "homepage": "https://bitcu.co/vidnoz-ai/"
+}
